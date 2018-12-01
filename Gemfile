@@ -2,6 +2,6 @@
 source "https://rubygems.org"
 
 gem 'rake'
-gem 'sinatra'
 gem 'rack-contrib'
+gem 'sinatra'
 gem 'aws-record'
